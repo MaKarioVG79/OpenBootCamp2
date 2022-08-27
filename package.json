@@ -1,0 +1,17 @@
+{
+  "name": "nombre",
+  "version": "1.0.0",
+  "description": "Segundo Proyecto de OpenBootCamp Datos Nombre",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nombre",
+    "fecha",
+    "libro"
+  ],
+  "author": "MaKarioVG",
+  "license": "ISC"
+}
